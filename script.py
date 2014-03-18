@@ -7,4 +7,5 @@ Make table
 make header bold
 Charlotte is an awesome collaborator
 But Anna is *not*  more awesome
+No more supplies for Charlotte
 Make small figure, red line
